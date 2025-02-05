@@ -93,6 +93,9 @@ format = ":date_long" # Hugo date format
 [params.paige.menu]
 style = "underline" # Must be "links", "pills", "tabs", or "underline"
 
+[params.paige.analytics]
+disable = true # Disable all analytics
+
 # [params.paige.git]
 # commit_url = "https://github.com/willfaught/paige/commit/%s"
 
