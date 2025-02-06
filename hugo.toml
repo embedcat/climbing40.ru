@@ -1,9 +1,9 @@
-baseurl = "https://example.com"
+baseurl = "https://climbing40.ru"
 # copyright = "© Will Faught"
 enablerobotstxt = true
-languagecode = "en-us"
+languagecode = "ru-ru"
 paginate = 50
-timezone = "America/Los_Angeles"
+timezone = "Europe/Moscow"
 titlecasestyle = "Go"
 # title = "Федерация скалолазания Калужской области"
 
