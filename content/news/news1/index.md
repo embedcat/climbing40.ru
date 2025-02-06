@@ -13,6 +13,6 @@ title: "Новость заголовок"
 
 ######################################
 
-{{<image-gallery gallery_dir="/img">}}
+{{<image-gallery gallery_dir="gallery">}}
 
 ########################################
