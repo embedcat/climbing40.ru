@@ -63,9 +63,9 @@ url = "/news/"
 weight = 31
 
 [[languages.en.menu.main]]
-identifier = "docs"
-name = "Документы"
-url = "/docs/"
+identifier = "calendar"
+name = "Календарь"
+url = "/calendar/"
 weight = 40
 
 [[languages.en.menu.main]]
