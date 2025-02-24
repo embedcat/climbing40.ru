@@ -92,9 +92,9 @@ url = "/calendar/"
 weight = 40
 
 [[languages.ru.menu.main]]
-identifier = "contact"
+identifier = "contacts"
 name = "Контакты"
-url = "/contact/"
+url = "/contacts/"
 weight = 50
 
 [markup.goldmark.parser.attribute]
