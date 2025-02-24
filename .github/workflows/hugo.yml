@@ -55,3 +55,4 @@ jobs:
           key: ${{ secrets.VPS_KEY }}
           source: "./public"
           target: /www/climbing40/
+          rm: true
