@@ -11,4 +11,4 @@ title: "Контакты"
 fsko.climbing40@yandex.ru
 
 #### Социальные сети:
-https://vk.com/dzenturizm
+https://vk.com/climbing40
