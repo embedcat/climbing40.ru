@@ -14,6 +14,8 @@ languageDirection = 'ltr'
 languageName = 'Russian'
 weight = 1
 
+staticDir = ['assets', 'static']
+
 [params.paige]
 color = "#0d6efd"
 color_scheme = "light"
