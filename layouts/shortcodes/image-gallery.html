@@ -7,7 +7,9 @@
 </style>
 
 <ul class="image-gallery">
-  {{ range $images := .Page.Resources.Match (printf "%s/*" (.Get "gallery_dir")) }}
+  {{ $gallery_url := (printf "%s/*" (.Get "gallery_dir")) }}
+  {{ $images := or ( .Page.Resources.Match $gallery_url ) ( resources.Match $gallery_url ) }}
+  {{ range $images }}
   <li>
     <a href="{{ (.Fit "1600x1600 q100").Permalink }}" title="" class="lightbox-image">
       <img src="{{ (.Fill "300x300 q50").Permalink }}" alt="" title="">
