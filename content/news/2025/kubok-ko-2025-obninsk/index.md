@@ -25,7 +25,7 @@ title: "Кубок Калужской области в дисциплине т�
 
 Спасибо всем участникам за спортивную атмосферу! Желаем всем дальнейших успехов и спортивных достижений!  
 Ознакомиться с итоговыми протоколами:
-[Скачать итоговый протокол](Protokol_trudnost-Itog.pdf)
+[Скачать итоговый протокол](/2025/kubok-ko-obninsk/files/Protokol_trudnost-Itog.pdf)
 
 
-{{<image-gallery gallery_dir="gallery">}}
+{{<image-gallery gallery_dir="2025/kubok-ko-obninsk/gallery">}}
