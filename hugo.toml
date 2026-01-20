@@ -26,7 +26,7 @@ external_link_new_tab = true
 keyword_style = "pills"                            # Must be "text" or "pills"
 math = false
 menu_style = "underline"                           # Must be "links", "pills", "tabs", or "underline"
-copyright = "2025 © РОО ФСКО"
+copyright = "2026 © РОО ФСКО"
 
 [params.paige.analytics]
 disable = true # Disable all analytics
